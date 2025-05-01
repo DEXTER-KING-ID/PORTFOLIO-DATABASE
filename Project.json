@@ -1,57 +1,12 @@
 [
     {
         "id": 1,
-        "title": "E-commerce Platform",
-        "description": "A responsive e-commerce site with cart and payment integration.",
-        "image": "https://via.placeholder.com/400x200?text=E-commerce",
+        "title": "WHATSAPP NOTIFICATION SPAM LINK DEVICE ALERT 🚀",
+        "description": "WHATSAPP DISTURB NOTIFICATION SEND LINK DEVICE ALERT NON STOP RUNNING 🔔",
+        "image": "https://i.ibb.co/d8YMkN5/20250121-124500.jpg",
         "github": "https://github.com/username/ecommerce",
         "demo": "https://example.com/ecommerce",
-        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
+        "technologies": ["HTML", "CSS", "spam", "Node.js", "whatsapp"],
         "featured": true
-    },
-    {
-        "id": 2,
-        "title": "Task Manager",
-        "description": "A productivity app for task and project management.",
-        "image": "https://via.placeholder.com/400x200?text=Task+Manager",
-        "github": "https://github.com/username/taskmanager",
-        "demo": "https://example.com/taskmanager",
-        "technologies": ["React", "Firebase", "CSS", "Redux"]
-    },
-    {
-        "id": 3,
-        "title": "Weather Dashboard",
-        "description": "Real-time weather app with location search.",
-        "image": "https://via.placeholder.com/400x200?text=Weather+App",
-        "github": "https://github.com/username/weather",
-        "demo": "https://example.com/weather",
-        "technologies": ["HTML", "CSS", "JavaScript", "API Integration"]
-    },
-    {
-        "id": 4,
-        "title": "Portfolio Website",
-        "description": "A modern portfolio showcasing my skills and projects.",
-        "image": "https://via.placeholder.com/400x200?text=Portfolio",
-        "github": "https://github.com/username/portfolio",
-        "demo": "https://example.com/portfolio",
-        "technologies": ["HTML", "CSS", "JavaScript"]
-    },
-    {
-        "id": 5,
-        "title": "Blog Platform",
-        "description": "A CMS for creating and publishing blog posts.",
-        "image": "https://via.placeholder.com/400x200?text=Blog+Platform",
-        "github": "https://github.com/username/blog",
-        "demo": "https://example.com/blog",
-        "technologies": ["Node.js", "Express", "MongoDB", "EJS"]
-    },
-    {
-        "id": 6,
-        "title": "Chat Application",
-        "description": "Real-time messaging app with group chats.",
-        "image": "https://via.placeholder.com/400x200?text=Chat+App",
-        "github": "https://github.com/username/chat",
-        "demo": "https://example.com/chat",
-        "technologies": ["Socket.io", "React", "Node.js", "MongoDB"]
     }
 ]
