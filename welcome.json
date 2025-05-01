@@ -1,7 +1,7 @@
 {
     "alert": {
-        "title": "Welcome to My Portfolio!",
-        "message": "Discover my projects and let's collaborate on innovative solutions.",
+        "title": "WELCOME TO DEXTER OFFICIAL SITE 💗",
+        "message": "SITE OPEN DATE 2025/MAY/2 NEW UPDATE COMING SOON 🚀",
         "image": "https://i.ibb.co/s9Gmx8bN/9e4fa46baa7bf3ab676ec7908d726325.jpg",
         "buttons": [
             {
@@ -11,6 +11,10 @@
             {
                 "text": "Contact Me",
                 "url": "#contact"
+            },
+            {
+                "text": "Subscribe Youtube",
+                "url": "https://youtube.com/@dextertools999?si=zOUXRF0Dkch2W5Pt"
             }
         ]
     }
