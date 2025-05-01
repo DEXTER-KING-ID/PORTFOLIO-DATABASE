@@ -1,0 +1,17 @@
+{
+    "alert": {
+        "title": "Welcome to My Portfolio!",
+        "message": "Discover my projects and let's collaborate on innovative solutions.",
+        "image": "https://via.placeholder.com/500x300?text=Welcome",
+        "buttons": [
+            {
+                "text": "Explore Projects",
+                "url": "#projects"
+            },
+            {
+                "text": "Contact Me",
+                "url": "#contact"
+            }
+        ]
+    }
+}
