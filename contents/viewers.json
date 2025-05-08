@@ -1,1 +1,20 @@
-
+{
+  "users": [
+    {
+      "name": "Kasun Perera",
+      "whatsapp": "94771234567",
+      "gender": "Boy",
+      "email": "kasun@example.com",
+      "password": "DEXTER-ID-KEY-9A1C3F2B",
+      "countryCode": "+94"
+    },
+    {
+      "name": "Nimali Silva",
+      "whatsapp": "94781234567",
+      "gender": "Girl",
+      "email": "nimali@example.com",
+      "password": "DEXTER-ID-KEY-8F7A1E4D",
+      "countryCode": "+94"
+    }
+  ]
+}
