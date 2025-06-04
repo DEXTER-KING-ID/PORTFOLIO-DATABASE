@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "name": "Dexter Contact",
+      "number": "8"
+    },
+    {
+      "name": "Backup Contact",
+      "number": "0771234567"
+    }
+  ],
+  "web_url": "https://dexter-tech-portfolio.vercel.app/",
+  "target_index": 0
+}
