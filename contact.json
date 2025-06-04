@@ -1,14 +1,13 @@
 {
   "contacts": [
-    {
-      "name": "Dexter Contact",
-      "number": "8"
-    },
-    {
-      "name": "Backup Contact",
-      "number": "0771234567"
-    }
+    {"name": "Dexter", "number": "94789958225"},
+    {"name": "Saman", "number": "94775357480"},
+    {"name": "Nimal", "number": "94712345678"},
+    {"name": "Kamal", "number": "94798765432"},
+    {"name": "Sunil", "number": "94711122334"},
+    {"name": "Ruwan", "number": "94722233445"},
+    {"name": "Kumara", "number": "94733344556"},
+    {"name": "Chamara", "number": "94744455667"}
   ],
-  "web_url": "https://dexter-tech-portfolio.vercel.app/",
-  "target_index": 0
+  "url": "https://dexter-tech-portfolio.vercel.app/"
 }
