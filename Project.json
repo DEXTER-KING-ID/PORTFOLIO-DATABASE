@@ -1,12 +1,22 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "title": "WHATSAPP GROUP BROADCAST  SYSTEM BACK FREE 100% 🚀",
         "description": "WHATSAPP GROUP BROADCAST GROUP MEMBERS NOTIFY  🔔",
         "image": "https://i.ibb.co/JWMdBrXy/Um-Cavz-Gerb-A-HD.jpg",
         "github": "https://wa.me/message/DR336V5ADAZRJ1",
         "demo": "https://group-broadcast-system-power-dexter.onrender.com/",
         "technologies": ["HTML", "Broadcast", "DEXTER", "Node.js", "whatsapp"],
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "WHATSAPP SIMPLE BOT BASE  🚀",
+        "description": "WHATSAPP AUTO STATUS READ AND REACT AND PLAY COMMAND BOT BASE  🔔",
+        "image": "https://i.ibb.co/Tqb7LrHL/Whatsapp-chatbot-featured-image.webp",
+        "github": "https://wa.me/message/DR336V5ADAZRJ1",
+        "demo": "https://wa.me/message/DR336V5ADAZRJ1",
+        "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "whatsapp bot", "whatsapp"],
         "featured": true
     }
 ]
