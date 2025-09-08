@@ -38,5 +38,15 @@
         "demo": "https://contact-push-new-version-dexter.onrender.com/",
         "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "whatsapp bot", "whatsapp"],
         "featured": true
+    },
+    {
+        "id": 5,
+        "title": "CAMERA HACKING WITH SIMPLE URL  🚀",
+        "description": "LOCATION AND FRONT CAMERA HACKING TELEGRAM BOT  🔔",
+        "image": "https://i.ibb.co/ZRbKf1pK/start.jpg",
+        "github": "https://wa.me/message/DR336V5ADAZRJ1",
+        "demo": "https://contact-push-new-version-dexter.onrender.com/",
+        "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "telegram bot api", "whatsapp"],
+        "featured": true
     }
 ]
