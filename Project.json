@@ -45,8 +45,8 @@
         "description": "LOCATION AND FRONT CAMERA HACKING TELEGRAM BOT  🔔",
         "image": "https://i.ibb.co/ZRbKf1pK/start.jpg",
         "github": "https://wa.me/message/DR336V5ADAZRJ1",
-        "demo": "https://contact-push-new-version-dexter.onrender.com/",
-        "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "telegram bot api", "whatsapp"],
+        "demo": "https://t.me/dexter_cam_ip_bot",
+        "technologies": ["node.js", "javascript", "telegram bot api", "dexter"],
         "featured": true
     }
 ]
